@@ -23,14 +23,14 @@
     <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:2.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest:2.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-devtools:2.7.12" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.12" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.12" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-devtools:2.7.18" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.7.18" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.31" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.7.18" level="project" />
   </component>
 </module>
